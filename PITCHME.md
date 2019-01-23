@@ -6,7 +6,7 @@
 @snapend
 
 @snap[east span-50]
-![](assets/img/features-desktop.png)
+![](assets/images/ajc.png)
 @snapend
 
 @snap[west span-40 pro-feature-details]
