@@ -18,7 +18,7 @@ theme-override: assets/css/PITCHME.css
 # [Global] Background Settings
 # Doc: https://gitpitch.com/docs/settings/background
 #
-background : assets/img/AJC.png
+background : assets/img/ajc.png
 background-opacity : 5
 background-position : bottom
 background-size : 100% 60%
@@ -27,7 +27,7 @@ background-size : 100% 60%
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : assets/img/logo.png
+logo : assets/img/ajc.png
 logo-postion : top-left
 
 #
