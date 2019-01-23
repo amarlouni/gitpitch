@@ -1,22 +1,3 @@
----?image=assets/img/audience.png&opacity=100&color=#E58537&size=100% 40%
-@title[Introduction]
-
-@snap[north-west raleway-medium]
-#### The Markdown Presentation Service on Git
-@snapend
-
-@snap[west montserrat-heavy heading-white]
-# GitPitch@css[faded text-05](.com)
-@snapend
-
----?image=assets/img/audience.png&size=100% 40%
-
-### What can GitPitch do for you?
-
-@snap[north text-gray text-05 span-100]
-*Conference Speakers. Consultants. Educators. Training Instructors. Pssst...*
-@snapend
-
 ---?image=assets/img/audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
