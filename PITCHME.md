@@ -1,4 +1,4 @@
----?image=assets/img/audience.png&size=100% 40%
+---?image=assets/images/ajc.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### GitPitch Desktop
